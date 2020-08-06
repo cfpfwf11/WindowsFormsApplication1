@@ -18,6 +18,7 @@ namespace WindowsFormsApplication1
 
             // dsfsd
             int a = 3;
+            string aa = "";
         }
     }
 }
