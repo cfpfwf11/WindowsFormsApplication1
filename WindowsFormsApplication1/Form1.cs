@@ -17,6 +17,7 @@ namespace WindowsFormsApplication1
             InitializeComponent();
 
             // dsfsd
+            int a = 3;
         }
     }
 }
